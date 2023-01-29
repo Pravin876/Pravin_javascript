@@ -1,0 +1,13 @@
+.container{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 4px solid green;
+}
+.red{
+    background-color: rgb(153, 56, 51);
+}
+
+.hidden{
+    display: none;
+}
